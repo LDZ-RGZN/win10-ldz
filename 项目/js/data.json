@@ -1,0 +1,17 @@
+{
+	"code":200,
+	"data":{
+		"name":"吕东泽",
+		"age":17,
+		"info":
+		[
+			"male",
+			"student",
+			{
+				"front":["js","css","html"],
+				"back":["Python"]
+			}
+		]
+	},
+	"msg":"成功"
+}
